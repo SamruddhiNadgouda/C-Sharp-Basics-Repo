@@ -1,0 +1,14 @@
+D:\Computer Engineering\Languages\C#\BasicsCS\bin\Debug\net9.0\BasicsCS.exe
+D:\Computer Engineering\Languages\C#\BasicsCS\bin\Debug\net9.0\BasicsCS.deps.json
+D:\Computer Engineering\Languages\C#\BasicsCS\bin\Debug\net9.0\BasicsCS.runtimeconfig.json
+D:\Computer Engineering\Languages\C#\BasicsCS\bin\Debug\net9.0\BasicsCS.dll
+D:\Computer Engineering\Languages\C#\BasicsCS\bin\Debug\net9.0\BasicsCS.pdb
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.AssemblyInfoInputs.cache
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.AssemblyInfo.cs
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.csproj.CoreCompileInputs.cache
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.dll
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\refint\BasicsCS.dll
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.pdb
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\BasicsCS.genruntimeconfig.cache
+D:\Computer Engineering\Languages\C#\BasicsCS\obj\Debug\net9.0\ref\BasicsCS.dll
